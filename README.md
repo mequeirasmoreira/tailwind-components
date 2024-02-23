@@ -30,4 +30,4 @@ Para testar os componetes, antes de inserir ao seu projeto, você pode acessar o
 
 ## Figma
 
-Deseja verificar esse projeto no Figma e saber todas as referências? https://www.figma.com/community/file/1334970913096026820/tailwindcss-assets
+Deseja verificar esse projeto no Figma e saber todas as referências? [Projeto no Figma](https://www.figma.com/community/file/1334970913096026820/tailwindcss-assets)
