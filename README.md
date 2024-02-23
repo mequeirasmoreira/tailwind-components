@@ -26,7 +26,7 @@ Para utilizar os componentes deste repositório em seu projeto, basta clonar ou 
 
 ## Como Testar
 
-Para testar os componetes, antes de inserir ao seu projeto, você pode acessar o Play Ground do próprio TailWind. Ex: https://play.tailwindcss.com/cqi7Sc3HFi?size=528x720
+Para testar os componetes, antes de inserir ao seu projeto, você pode acessar o Play Ground do próprio TailWind. Ex: [Exemplo Play Ground]([URL_do_Link](https://play.tailwindcss.com/cqi7Sc3HFi?size=528x720)){:target="_blank"}
 
 ## Figma
 
