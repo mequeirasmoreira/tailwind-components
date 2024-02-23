@@ -24,6 +24,10 @@ Se você deseja contribuir para este projeto, sinta-se à vontade para enviar pu
 
 Para utilizar os componentes deste repositório em seu projeto, basta clonar ou fazer o download do código-fonte e integrá-lo ao seu projeto conforme necessário. Certifique-se de incluir as classes e estilos relevantes em seu HTML ou framework de escolha, conforme documentado em cada componente.
 
+## Como Testar
+
+Para testar os componetes, antes de inserir ao seu projeto, você pode acessar o Play Ground do próprio TailWind. Ex: https://play.tailwindcss.com/cqi7Sc3HFi?size=528x720
+
 ## Figma
 
 Deseja verificar esse projeto no Figma e saber todas as referências? https://www.figma.com/community/file/1334970913096026820/tailwindcss-assets
